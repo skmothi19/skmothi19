@@ -87,7 +87,6 @@ I am passionate about **big data, cloud platforms, and modern data engineering a
 - Built **Gold-layer SQL views in Azure Synapse** for BI & analytics workloads.
 - Enabled **serverless SQL analytics using OPENROWSET on Data Lake**.
 
-📌 Repository: *(Add your project repo link here)*
 
 ---
 
